@@ -20,4 +20,4 @@ Ghost Occult, Happy Halloween 2025!
 
 | Project Version | BGM | Map Design | Video |
 | :-: | :-: | :-: | :-: | 
-| Unity 6000.0.31f1 | 🎵 MyuPie - Ghost Dance | Occult Cemetery | JkhTV |
+| Unity 6000.0.31f1 | 🎵 [MyuPie - Ghost Dance](https://www.youtube.com/watch?v=VFg1Vu4MhI8) | Hallod by ByaByu | JkhTV |
